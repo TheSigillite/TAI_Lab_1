@@ -10,11 +10,18 @@ li {
 .con {
     padding: 12px;
     background-color: white;
-    outline: black solid 6px;
+    outline: black solid;
     justify-content: space-around;
 }
 
 .radioB {
     justify-content: space-around;
     display: inline;
+}
+
+.outls {
+    border-right: black solid;
+}
+.fsiz {
+    font-size: large;
 }
