@@ -7,3 +7,13 @@ li {
     padding: 10px;
     font-size: 20px;
 }
+.con {
+    background-color: white;
+    outline: black 2px;
+    justify-content: space-around;
+}
+
+.radioB {
+    justify-content: space-around;
+    display: inline;
+}
