@@ -8,8 +8,9 @@ li {
     font-size: 20px;
 }
 .con {
+    padding: 12px;
     background-color: white;
-    outline: black 2px;
+    outline: black solid 6px;
     justify-content: space-around;
 }
 
