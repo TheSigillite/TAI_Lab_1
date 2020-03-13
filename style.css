@@ -25,3 +25,9 @@ li {
 .fsiz {
     font-size: large;
 }
+
+.foot {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
