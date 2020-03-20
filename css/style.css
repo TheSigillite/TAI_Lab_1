@@ -1,5 +1,9 @@
+html {
+    scroll-behavior: smooth;
+  }
+  
 body {
-    background-color: lightpink;
+    background-color: rgb(245, 245, 245);
 }
 li {
     display: inline;
@@ -30,4 +34,11 @@ li {
     display: flex;
     flex-direction: row;
     justify-content: center;
+}
+
+.scroll {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    display: none;
 }
